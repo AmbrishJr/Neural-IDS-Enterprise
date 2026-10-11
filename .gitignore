@@ -1,0 +1,17 @@
+# Dataset (UNSW-NB15 licence: academic use, no redistribution; see README for download)
+data/raw/
+
+# Trained model weights (regenerate with scripts/run_experiment1.py)
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

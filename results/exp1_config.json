@@ -1,0 +1,7 @@
+{
+  "seed": 42,
+  "epochs_max": 30,
+  "dataset": "UNSW-NB15 (official train/test partitions)",
+  "val_split": "15% stratified from training set",
+  "torch": "2.13.0"
+}
